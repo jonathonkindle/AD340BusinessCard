@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_text">Jonathon Kindle</string>
+    <string name="title_text">Full time tinkerer!</string>
+    <string name="phone_text">206–446–7906</string>
+    <string name="github_text">github.com/jonathonkindle</string>
+    <string name="email_text">jonathonkindle@gmail.com</string>
+</resources>
